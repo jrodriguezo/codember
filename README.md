@@ -4,3 +4,5 @@ Visita la página de retos de programación [aquí](https://codember.dev/).
 
 Retos completados:
 - Challenge01 ✔ - check the solution in feature/challenge01 branch [week Nov, 7th]
+- Challenge02 ✔ - check the solution in feature/challenge02 branch [week Nov, 14th]
+- Challenge03 ✔ - check the solution in feature/challenge03 branch [week Nov, 14th]

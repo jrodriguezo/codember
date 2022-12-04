@@ -7,3 +7,4 @@ Retos completados:
 - Challenge02 ✔ - check the solution in feature/challenge02 branch [week Nov, 14th]
 - Challenge03 ✔ - check the solution in feature/challenge03 branch [week Nov, 14th]
 - Challenge04 ✔ - check the solution in feature/challenge04 branch [week Nov, 21th]
+- Challenge05 ✔ - check the solution in feature/challenge05 branch [week Nov, 28th]
